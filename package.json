@@ -1,0 +1,16 @@
+{
+  "name": "habapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.2.3",
+    "hapi-pino": "^4.0.3",
+    "mongoose": "^5.0.12"
+  }
+}
